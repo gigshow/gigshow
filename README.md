@@ -11,7 +11,7 @@
 
 ## 👋 About
 
-15 years across cross-border BD, quant fund design, and trading infrastructure —
+15+ years across cross-border BD, quant fund design, and trading infrastructure —
 now solo, building the structural context layer that most "buy / sell" signal tools skip.
 
 **Currently** — [Decker AI](https://github.com/gigshow/decker-ai). Crypto majors + Korean equities (KOSPI + KOSDAQ). Five channels: Web · Telegram · Kakao · REST API · MCP server. Engine is deterministic; LLM only explains.
