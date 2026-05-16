@@ -17,7 +17,7 @@ now solo, building the structural context layer that most "buy / sell" signal to
 **Currently** — [Decker AI](https://github.com/gigshow/decker-ai). Crypto majors + Korean equities (KOSPI + KOSDAQ). Five channels: Web · Telegram · Kakao · REST API · MCP server. Engine is deterministic; LLM only explains.
 
 **Previously**
-- **COO**, BlockOcean (블록오션) — global BD strategy, technical IR / pitch, internal systems (2018–19)
+- **COO**, BlockOcean (블록오션) — global BD strategy, technical IR / pitch, internal systems (2018–24, 5+ yrs)
 - **Executive, Planning**, Intelliquant (인텔리퀀트) — quant fund product design + risk management + overseas sales (2012–18, 6 yrs)
 - **Manager**, Phoenix (파이닉스) — overseas sales, financial product development (2011–12)
 - **Overseas Sales**, R-Square I&C (알스퀘어아이앤씨) — CFD trading platform + cross-border BD, Tokyo / London base (2006–11, 5 yrs)
